@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Project_3-compassion/static/css/main.e080ac3b.css",
+    "main.js": "/Project_3-compassion/static/js/main.d25628df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Project_3-compassion/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img.jpg": "/Project_3-compassion/static/media/img.f31d7001d1bfa5ee2167.jpg",
+    "static/media/about_sec4.jpg": "/Project_3-compassion/static/media/about_sec4.25c595db87422104502c.jpg",
+    "static/media/bg-img3.jpg": "/Project_3-compassion/static/media/bg-img3.93101b17d04c0c819b27.jpg",
+    "static/media/img1.jpg": "/Project_3-compassion/static/media/img1.a15eb35efbd681757801.jpg",
+    "static/media/about_sec3.jpg": "/Project_3-compassion/static/media/about_sec3.0802fac13a47c86166a2.jpg",
+    "static/media/about_sec.jpg": "/Project_3-compassion/static/media/about_sec.f1a52e9abcfc6b7df7f8.jpg",
+    "static/media/thatimg.jpg": "/Project_3-compassion/static/media/thatimg.739207d3809423456df1.jpg",
+    "static/media/img3.jpg": "/Project_3-compassion/static/media/img3.4ddc7e482690e0104389.jpg",
+    "static/media/bg-img2.jpg": "/Project_3-compassion/static/media/bg-img2.79520b98ff5f91a9c97d.jpg",
+    "static/media/hero-bg.jpg": "/Project_3-compassion/static/media/hero-bg.06b6239463cc0b44bd3d.jpg",
+    "static/media/bg-img.jpg": "/Project_3-compassion/static/media/bg-img.54937745f4b3b7f5a18d.jpg",
+    "static/media/img2.jpg": "/Project_3-compassion/static/media/img2.1e388f93c8b557897bc4.jpg",
+    "static/media/about_sec2.jpg": "/Project_3-compassion/static/media/about_sec2.a7429bc6a8e9c7408c45.jpg",
+    "index.html": "/Project_3-compassion/index.html",
+    "main.e080ac3b.css.map": "/Project_3-compassion/static/css/main.e080ac3b.css.map",
+    "main.d25628df.js.map": "/Project_3-compassion/static/js/main.d25628df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Project_3-compassion/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e080ac3b.css",
+    "static/js/main.d25628df.js"
+  ]
+}

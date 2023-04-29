@@ -9,7 +9,7 @@ function Community() {
   const [data, setData] = React.useState([]);
 
   React.useEffect(() => {
-    fetch("http://localhost:5000/api/v1/posts")
+    fetch("https://project-compassion-backend.onrender.com/api/v1/posts")
       .then((res) => res.json())
       .then((json) => setData(json["posts"]))
       .catch((error) => console.log(error));

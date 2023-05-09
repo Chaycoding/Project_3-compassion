@@ -17,7 +17,7 @@ function Create_posts() {
 
     return ( 
         <div >
-            <form action="/community" method="POST" id="form" onSubmit={()=> submit()} className='text-5xl px-6 grid gap-y-7 grid-cols-2'>
+            <form action="/" method="POST" id="form" onSubmit={()=> submit()} className='text-5xl px-6 grid gap-y-7 grid-cols-2'>
                 <label for='name'>What's your name?</label>
                 <input className='border border-[#237477]  rounded-3xl pl-5' type="text" name="name" onChange={(e)=>setName(e.target.value)}/>
                 <label for='location'>Where are you from?</label>
